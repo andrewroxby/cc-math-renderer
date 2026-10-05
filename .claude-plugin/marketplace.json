@@ -1,0 +1,12 @@
+{
+  "name": "andrewroxby",
+  "description": "Andrew Roxby's Claude Code plugins",
+  "owner": { "name": "Andrew Roxby" },
+  "plugins": [
+    {
+      "name": "cc-math-renderer",
+      "source": "./",
+      "description": "Render LaTeX in Claude Code replies as Unicode math"
+    }
+  ]
+}

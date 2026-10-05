@@ -1,0 +1,6 @@
+{
+  "name": "cc-math-renderer",
+  "version": "0.1.0",
+  "description": "Render LaTeX in Claude Code replies as Unicode math",
+  "author": { "name": "Andrew Roxby" }
+}
