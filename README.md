@@ -1,8 +1,7 @@
 # cc-math-renderer
 
 A Claude Code plugin that renders the LaTeX in Claude's replies as Unicode
-math in the terminal. Claude keeps writing LaTeX, and the transcript keeps it.
-Only what you see on screen changes.
+math in the terminal, derived from Pi's LaTeX renderer with modest QOL additions on top.
 
 Without it, a reply shows the source:
 
